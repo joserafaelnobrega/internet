@@ -1,0 +1,50 @@
+body{
+	background-color: gray;
+    font-family: 'Miniver', cursive;
+   
+}
+
+h1:hover{
+	color: white;
+}
+h1{
+
+	font-family: "arial";
+
+	font-size: 230%;
+}
+
+p{
+	font-size: 150%;
+}
+
+li{
+	font-size: 120%;
+}
+#populacao:hover{
+	color:black;
+	
+}
+
+#sate{
+	
+	width: 30%;
+
+	left: 1150px;
+	top: 150px;
+	 
+}
+
+
+
+}
+
+#mapa{
+
+}
+
+a{
+	color: white;
+	font-family: 'arial';
+	font-size: 120%;
+}
